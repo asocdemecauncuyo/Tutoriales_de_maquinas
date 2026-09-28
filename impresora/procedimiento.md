@@ -9,7 +9,9 @@
 
 1. Limpiar la cama.
 
-2. [Nivelar la cama](./nivelación.md).
+2. [Nivelar la cama](./nivelacion.md).
+
+> Aca recordar chequear que el offset en Z de la configuración de la impresora no sea incorrecto
 
 3. Descargar el archivo STL de la pieza a imprimir.
 
