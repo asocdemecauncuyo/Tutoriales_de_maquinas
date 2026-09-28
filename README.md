@@ -4,8 +4,10 @@ Este repo es para poner información del uso acerca del uso de las máquias de l
 - [Cortadora Laser](./laser/info.md)
 - [Taladro de Banco](./taladro/info.md)
 # Colaboración
-Cualquiero que quiera, para colaborar en completar los tutoriales de las máquinas hacer:
+Cualquiera que quiera, para colaborar en completar los tutoriales de las máquinas hacer:
 - Fork del repo
 - Modificar
 - Hacer Pull Request
-- Alguién después lo revisa y hace efectivo el cambio
+- Alguien después lo revisa y hace efectivo el cambio
+
+O abrir un Issue
