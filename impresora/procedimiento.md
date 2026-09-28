@@ -95,7 +95,7 @@ Los archivos se ven en la lista. Aparecen en **verde** si se imprimeron exitosam
 
 ## Obtener URL para Tailscale
 * Instalar [Tailscale](https://tailscale.com/download) y crear una [cuenta](https://login.tailscale.com/login)
-* Pedir el link de acceso al nodo de la impresora al [Mail de la Asociación](asocdemecauncuyo@gmail.com) o directamente al que corresponda. Poner en el asunto **ACCESO-REMOTO-IMPRESORA**. Enviar desde el mail con el que se registró a la convocatoria de miembros de la Asociación.
+* Pedir el link de acceso al nodo de la impresora al [Mail de la Asociación](mailto:asocdemecauncuyo@gmail.com) o directamente al que corresponda. Poner en el asunto **ACCESO-REMOTO-IMPRESORA**. Enviar desde el mail con el que se registró a la convocatoria de miembros de la Asociación.
 * Al recibir la URL de invitación, aceptarla. El nodo va a aparecer en la lista de dispositivos del panel admin de su cuenta de Tailscale.
 
 ![tailscale device](./imagenes/tailscale.png)
