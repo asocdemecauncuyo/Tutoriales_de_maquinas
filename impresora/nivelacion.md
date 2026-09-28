@@ -22,5 +22,6 @@ El nivelado de la cama es un paso crítico para asegurar adhesión de la primera
 * El ajuste correcto de la cama afecta directamente la adherencia y la uniformidad de la primera capa.
 * Si la cama está desalineada, una zona puede imprimir bien y otra puede despegarse o deformarse.
 * En camas con cinta kapton o superficies similares, conviene evitar daños mecánicos al acceso de los tornillos.
+* Cuando se hace el procedimiento de nivelación, verififcar en el Slicer el offset en Z de la impresora (ponerlo en 0).
 
 > Para información adicional ver los documentos de la [wiki](https://wiki.geeetech.com/index.php/Prusa_I3_X)
