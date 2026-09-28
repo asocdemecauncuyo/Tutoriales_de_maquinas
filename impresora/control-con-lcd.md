@@ -39,4 +39,4 @@ La impresora puede operarse desde el panel LCD para mover ejes, ajustar temperat
 * El motor del extrusor no se mueve si la temperatura es menor a 180 °C.
 
 ## Información adiciona
-(wiki con fotos y todos los pasos)[https://wiki.geeetech.com/index.php/Prusa_I3_X]
+[wiki con fotos y todos los pasos](https://wiki.geeetech.com/index.php/Prusa_I3_X)
