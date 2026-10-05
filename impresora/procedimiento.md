@@ -26,7 +26,7 @@
     ![Paso 13](imagenes/instalacion-orca-13.png)
 > Nota: Los pasos siguientes también se pueden hacer de [forma manual](./control-con-lcd.md) sin utilizar la computadora, a través de los comandos de la pantalla LED de la propia impresora.
 
-5. Entrar a [Octoprint en esta URL](https://mecabot.ingenieria) o si no funciona, en [esta otra](https://mecabot.home) e ingresar utilizando las credenciales.
+5. Entrar a [Octoprint en esta URL](https://mecabot.ingenieria) o si no funciona, en [esta otra (conectándose a MECACUEVA)](https://mecabot.home) e ingresar utilizando las credenciales.
 
 <p align="center">
   <img src="./imagenes/octoprint-1.png" width = "300"/>
