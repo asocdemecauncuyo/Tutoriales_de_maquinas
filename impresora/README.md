@@ -5,3 +5,4 @@ De forma general imprimimos en PETG y PLA, usamos OrcaSlicer para slicing, y con
 * Ver [el archivo de tensionado de las correas](./belt-tension.md) para el procedimiento de ajuste de las correas.
 * Ver el [archivo para control manual](./control-con-lcd.md) para el uso de la impresora directamente a través del control manual (perilla al lado de la pantalla LCD que permite seleccionar menus de movimiento o de control de temperatura, etc.).
 * Ver el [archivo de nivelación](./nivelacion.md) que describe el procedimiento para nivelación de la cama caliente utilizando un papel.
+* Ver la carpeta [de perfiles](./perfiles) donde se encuentran los perfiles de configuración de la impresora.
